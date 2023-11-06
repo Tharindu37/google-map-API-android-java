@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "987707140398",
+    "firebase_url": "https://test-e2db4-default-rtdb.firebaseio.com",
+    "project_id": "test-e2db4",
+    "storage_bucket": "test-e2db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987707140398:android:e2e16ead478e9104faf2bf",
+        "android_client_info": {
+          "package_name": "com.tharindu.login_test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZbmQgxNBYIT6cNOar6RHMaCM2MuM70YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987707140398:android:3af220ea5f6d2276faf2bf",
+        "android_client_info": {
+          "package_name": "com.tharindu.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZbmQgxNBYIT6cNOar6RHMaCM2MuM70YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987707140398:android:1920abc6c45b19aafaf2bf",
+        "android_client_info": {
+          "package_name": "com.tharindu.realtime_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZbmQgxNBYIT6cNOar6RHMaCM2MuM70YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
